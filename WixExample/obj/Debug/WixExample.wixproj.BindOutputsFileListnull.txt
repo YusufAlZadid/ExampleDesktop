@@ -1,0 +1,2 @@
+C:\Users\Asus\source\repos\ExampleDesktop\WixExample\bin\Debug\WixExample.msi
+C:\Users\Asus\source\repos\ExampleDesktop\WixExample\bin\Debug\WixExample.wixpdb

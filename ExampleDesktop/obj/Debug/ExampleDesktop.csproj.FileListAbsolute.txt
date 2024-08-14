@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe.config
+C:\Users\Asus\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.exe
+C:\Users\Asus\source\repos\ExampleDesktop\ExampleDesktop\bin\Debug\ExampleDesktop.pdb
+C:\Users\Asus\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.Properties.Resources.resources
+C:\Users\Asus\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.exe
+C:\Users\Asus\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.pdb
+C:\Users\Asus\source\repos\ExampleDesktop\ExampleDesktop\obj\Debug\ExampleDesktop.TestUI.resources
